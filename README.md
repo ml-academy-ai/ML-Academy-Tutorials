@@ -1,1 +1,1 @@
-# ml_blog
+# Maistermind tutorials
