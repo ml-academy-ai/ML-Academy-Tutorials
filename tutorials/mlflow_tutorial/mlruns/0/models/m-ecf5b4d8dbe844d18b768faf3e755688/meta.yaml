@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/0/models/m-ecf5b4d8dbe844d18b768faf3e755688/artifacts
+creation_timestamp: 1754055584911
+experiment_id: '0'
+last_updated_timestamp: 1754055586093
+model_id: m-ecf5b4d8dbe844d18b768faf3e755688
+model_type: ''
+name: wine_model_lasso
+source_run_id: 2a6e4509f2094196a6eafaa80e94ae02
+status: 2
+status_message: null

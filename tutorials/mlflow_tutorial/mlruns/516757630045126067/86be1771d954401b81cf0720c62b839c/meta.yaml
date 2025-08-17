@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/516757630045126067/86be1771d954401b81cf0720c62b839c/artifacts
+end_time: 1754128656046
+entry_point_name: ''
+experiment_id: '516757630045126067'
+lifecycle_stage: active
+run_id: 86be1771d954401b81cf0720c62b839c
+run_name: Lasso_nested
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754128656017
+status: 4
+tags: []
+user_id: timurbikmuhametov

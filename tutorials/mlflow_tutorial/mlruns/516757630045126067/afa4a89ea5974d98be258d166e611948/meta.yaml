@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/516757630045126067/afa4a89ea5974d98be258d166e611948/artifacts
+end_time: 1754128893426
+entry_point_name: ''
+experiment_id: '516757630045126067'
+lifecycle_stage: active
+run_id: afa4a89ea5974d98be258d166e611948
+run_name: Lasso_optuna_0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754128893359
+status: 3
+tags: []
+user_id: timurbikmuhametov
