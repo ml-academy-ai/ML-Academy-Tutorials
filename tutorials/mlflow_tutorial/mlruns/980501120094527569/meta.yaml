@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/980501120094527569
+creation_time: 1755599224007
+experiment_id: '980501120094527569'
+last_update_time: 1755599224007
+lifecycle_stage: active
+name: Wine Quality Regression

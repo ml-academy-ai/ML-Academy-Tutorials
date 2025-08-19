@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/980501120094527569/models/m-81e3db93e807433895f306b8140b9bc4/artifacts
+creation_timestamp: 1755599599248
+experiment_id: '980501120094527569'
+last_updated_timestamp: 1755599600391
+model_id: m-81e3db93e807433895f306b8140b9bc4
+model_type: ''
+name: wine_model_catboost
+source_run_id: f426c0014e634410ab587649d87f0022
+status: 2
+status_message: null
