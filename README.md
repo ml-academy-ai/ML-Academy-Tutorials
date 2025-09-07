@@ -8,13 +8,13 @@ A comprehensive collection of machine learning tutorials and examples, featuring
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd maistermind-tutorials
+   cd mlacademy-tutorials
    ```
 
 2. **Create virtual environment**
    ```bash
    conda env create -f env.yaml
-   conda activate maistermind-tutorials
+   conda activate mlacademy-tutorials
    ```
 
 3. **Install dependencies**
