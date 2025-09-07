@@ -1,7 +1,7 @@
 # Development directories
 in_dev/
 newsletter_production/
-tutorials/mlflow_tutorial/mlruns/
+tutorials/mlflow_tutorial/mlruns/*
 tutorials/mlflow_tutorial/catboost_info/
 tutorials/mlflow_tutorial/mlartifacts
 tutorials/mlflow_tutorial/mlflow_local_artifacts
