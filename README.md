@@ -1,4 +1,4 @@
-# Maistermind Tutorials
+# ML Academy Tutorials
 
 A comprehensive collection of machine learning tutorials and examples, featuring MLflow integration, time series analysis, and various ML algorithms.
 
